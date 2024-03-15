@@ -21,14 +21,12 @@
 	//Used for reading solana data
 	let readRPCs = [
 		'https://solana-mainnet.g.alchemy.com/v2/5oRm9adpGyvC8Qln69S8krdVdW6-s7m7',
-		'https://rpc.hellomoon.io/0c571baa-c3f7-44f2-a882-882aff60c9ee',
-	];
+			];
 
 	//Used for pushing transactions to solana chain
 	let writeRPCs = [
 		'https://solana-mainnet.g.alchemy.com/v2/5oRm9adpGyvC8Qln69S8krdVdW6-s7m7',
-		'https://rpc.hellomoon.io/0c571baa-c3f7-44f2-a882-882aff60c9ee',
-	];
+			];
 
 	//Program public keys
 	const sageProgramPK = new solanaWeb3.PublicKey('SAGEqqFewepDHH6hMDcmWy7yjHPpyKLDnRXKb3Ki8e6');
