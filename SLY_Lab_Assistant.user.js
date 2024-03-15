@@ -20,14 +20,14 @@
 
 	//Used for reading solana data
 	let readRPCs = [
-		'https://rpc.hellomoon.io/cfd5910f-fb7d-4489-9b32-f97193eceefd',
-		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
+		'https://solana-mainnet.g.alchemy.com/v2/5oRm9adpGyvC8Qln69S8krdVdW6-s7m7',
+		'https://rpc.hellomoon.io/0c571baa-c3f7-44f2-a882-882aff60c9ee',
 	];
 
 	//Used for pushing transactions to solana chain
 	let writeRPCs = [
-		'https://rpc.hellomoon.io/cfd5910f-fb7d-4489-9b32-f97193eceefd',
-		'https://solana-api.syndica.io/access-token/WPoEqWQ2auQQY1zHRNGJyRBkvfOLqw58FqYucdYtmy8q9Z84MBWwqtfVf8jKhcFh/rpc',
+		'https://solana-mainnet.g.alchemy.com/v2/5oRm9adpGyvC8Qln69S8krdVdW6-s7m7',
+		'https://rpc.hellomoon.io/0c571baa-c3f7-44f2-a882-882aff60c9ee',
 	];
 
 	//Program public keys
